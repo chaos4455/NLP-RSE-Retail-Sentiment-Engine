@@ -3,9 +3,7 @@
 <!-- Seção de Badges -->
 [![Status do Projeto](https://img.shields.io/badge/Status-Em_Desenvolvimento-orange?style=for-the-badge&logo=github)](https://github.com/chaos4455/NLP-RSE-Retail-Sentiment-Engine)
 [![Linguagem Principal](https://img.shields.io/badge/Linguagem-Python-blue?style=for-the-badge&logo=python)](https://www.python.org/)
-[![Licença](https://img.shields.io/badge/Licença-MIT-green?style=for-the-badge&logo=opensourceinitiative)](LICENSE)
 [![Tecnologias NLP](https://img.shields.io/badge/Tecnologias_Chave-TensorFlow%2C_spaCy%2C_NLTK-purple?style=for-the-badge&logo=tensorflow)](https://www.tensorflow.org/)
-[![Contribuidores](https://img.shields.io/badge/Contribuidores-Abra_um_PR!-red?style=for-the-badge&logo=github)](https://github.com/chaos4455/NLP-RSE-Retail-Sentiment-Engine/pulls)
 
 ---
 
@@ -19,9 +17,9 @@ Este é um motor de Processamento de Linguagem Natural (NLP) projetado para a id
 
 *   [LinkedIn](https://www.linkedin.com/in/itilmgf)
 *   [GitHub](https://github.com/chaos4455)
+*   
 # 🌟 Building an Intelligent and Multi-textual NLP E-commerce Event Analyzer 🛒
 
-[![Project Status](https://img.shields.io/badge/Status-POC%20Complete-brightgreen?style=for-the-badge&logo=github)](https://github.com/eliasandrade/nlp-ecommerce-analyzer)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge&logo=github)](LICENSE)
 [![Python Version](https://img.shields.io/badge/Python-3.9%2B-blue?style=for-the-badge&logo=python)](https://www.python.org/)
 [![Technologies](https://img.shields.io/badge/Tech-SpaCy%2C%20Transformers%2C%20Word2Vec%2C%20Flask-orange?style=for-the-badge&logo=pytorch)](https://pytorch.org/)
