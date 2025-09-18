@@ -17,7 +17,7 @@ Este é um motor de Processamento de Linguagem Natural (NLP) projetado para a id
 
 *   [LinkedIn](https://www.linkedin.com/in/itilmgf)
 *   [GitHub](https://github.com/chaos4455)
-*   
+  
 # 🌟 Building an Intelligent and Multi-textual NLP E-commerce Event Analyzer 🛒
 
 [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge&logo=github)](LICENSE)
