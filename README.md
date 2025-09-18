@@ -1,6 +1,11 @@
 # NLP-RSE-Retail-Sentiment-Engine
 NLP engine for emotion and intention identification and classification
 
+
+*   [LinkedIn](https://www.linkedin.com/in/itilmgf)
+*   [GitHub](https://github.com/chaos4455)
+
+
 # 🌟 Building an Intelligent and Multi-textual NLP E-commerce Event Analyzer 🛒
 
 [![Project Status](https://img.shields.io/badge/Status-POC%20Complete-brightgreen?style=for-the-badge&logo=github)](https://github.com/eliasandrade/nlp-ecommerce-analyzer)
@@ -159,44 +164,6 @@ O projeto é implementado em Python, utilizando as seguintes bibliotecas e ferra
     *   **Relatório HTML Customizado:** Geração de relatórios HTML detalhados e altamente estilizados, com resumos e cards de eventos individuais, incluindo visualização da análise de cada camada (tokens, entidades, intenção, sentimento, emoção, e termos expandidos).
 
 <br>
-
-### 💻 Como Rodar o Projeto
-
-1.  **Clone o Repositório:**
-    ```bash
-    git clone https://github.com/eliasandrade/nlp-ecommerce-analyzer.git
-    cd nlp-ecommerce-analyzer
-    ```
-
-2.  **Crie e Ative um Ambiente Virtual (recomendado):**
-    ```bash
-    python -m venv venv
-    # No Windows
-    .\venv\Scripts\activate
-    # No macOS/Linux
-    source venv/bin/activate
-    ```
-
-3.  **Instale as Dependências:**
-    ```bash
-    pip install -r requirements.txt
-    ```
-    (Certifique-se de que `requirements.txt` contém: `spacy`, `gensim`, `Faker`, `Flask`, `Flask-Cors`, `sentence-transformers`, `transformers`, `rich`, `colorama`, `pt_core_news_sm @ https://github.com/explosion/spacy-models/releases/download/pt_core_news_sm-3.7.0/pt_core_news_sm-3.7.0-py3-none-any.whl`)
-    *   **Nota:** O modelo `pt_core_news_sm` do SpaCy pode ser baixado automaticamente na primeira execução se não estiver presente.
-    *   **Token Hugging Face:** Para evitar limites de taxa ou para modelos privados, crie um arquivo `token.json` na raiz do projeto com o conteúdo `{"HUGGINGFACE_HUB_TOKEN": "hf_YOUR_TOKEN"}`.
-
-4.  **Execute o Programa Principal:**
-    ```bash
-    python main.py
-    ```
-    Isso iniciará o carregamento dos modelos, a geração e análise dos eventos sintéticos, a geração do relatório HTML e, em seguida, o servidor Flask API.
-
-5.  **Acesse o Relatório e a API:**
-    *   Após a conclusão da análise, um arquivo HTML (ex: `nlp_analysis_report_YYYYMMDD_HHMMSS.html`) será gerado no diretório raiz. Abra-o no seu navegador para ver o dashboard interativo.
-    *   A API Flask estará disponível em `http://0.0.0.0:8777/`. Você pode testá-la com POST requests para `/analyze`.
-
-<br>
-
 ---
 
 ## 💡 Casos de Uso e Aplicações no E-commerce
@@ -251,10 +218,6 @@ Os relatórios HTML gerados oferecem uma visualização clara da acurácia e dis
 *   **Localização:** Maringá, Paraná, Brasil
 
 Com uma paixão por transformar dados textuais em inteligência de negócios, Elias Andrade foca no desenvolvimento de soluções inovadoras que utilizam PNL, Machine Learning e Inteligência Artificial para resolver problemas complexos em diversos setores, como cibersegurança e e-commerce.
-
-*   [LinkedIn](https://www.linkedin.com/in/elias-andrade-nlp-ai-specialist)
-*   [GitHub](https://github.com/eliasandrade)
-*   [Website Replika AI Solutions](https://replika-ai-solutions.com) <!-- Substitua com o site real da sua empresa, se houver -->
 
 <br>
 
