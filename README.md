@@ -1,11 +1,24 @@
 # NLP-RSE-Retail-Sentiment-Engine
-NLP engine for emotion and intention identification and classification
 
+<!-- Seção de Badges -->
+[![Status do Projeto](https://img.shields.io/badge/Status-Em_Desenvolvimento-orange?style=for-the-badge&logo=github)](https://github.com/chaos4455/NLP-RSE-Retail-Sentiment-Engine)
+[![Linguagem Principal](https://img.shields.io/badge/Linguagem-Python-blue?style=for-the-badge&logo=python)](https://www.python.org/)
+[![Licença](https://img.shields.io/badge/Licença-MIT-green?style=for-the-badge&logo=opensourceinitiative)](LICENSE)
+[![Tecnologias NLP](https://img.shields.io/badge/Tecnologias_Chave-TensorFlow%2C_spaCy%2C_NLTK-purple?style=for-the-badge&logo=tensorflow)](https://www.tensorflow.org/)
+[![Contribuidores](https://img.shields.io/badge/Contribuidores-Abra_um_PR!-red?style=for-the-badge&logo=github)](https://github.com/chaos4455/NLP-RSE-Retail-Sentiment-Engine/pulls)
+
+---
+
+## Sobre o Projeto
+
+Este é um motor de Processamento de Linguagem Natural (NLP) projetado para a identificação e classificação de emoções e intenções em dados de texto, com foco específico no setor de varejo. Ele visa fornecer insights valiosos para melhorar a experiência do cliente e estratégias de negócios.
+
+---
+
+## Conecte-se
 
 *   [LinkedIn](https://www.linkedin.com/in/itilmgf)
 *   [GitHub](https://github.com/chaos4455)
-
-
 # 🌟 Building an Intelligent and Multi-textual NLP E-commerce Event Analyzer 🛒
 
 [![Project Status](https://img.shields.io/badge/Status-POC%20Complete-brightgreen?style=for-the-badge&logo=github)](https://github.com/eliasandrade/nlp-ecommerce-analyzer)
