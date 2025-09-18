@@ -61,7 +61,6 @@ Minha solução aborda esses pontos, oferecendo uma análise contextual e emocio
 
 A arquitetura deste sistema é um modelo híbrido, combinando a força dos **Grandes Modelos de Linguagem (LLMs)** e **modelos Transformer** com a precisão de técnicas especializadas, incluindo um mecanismo de **Geração Aumentada por Recuperação (RAG-like)**. O objetivo não é apenas classificar um evento, mas compreendê-lo em sua profundidade, inferindo contexto, urgência e até mesmo padrões de comportamento do cliente.
 
-![Arquitetura do Pipeline de PNL para E-commerce](https://i.imgur.com/your-architecture-diagram.png) <!-- Substitua com um diagrama real da sua arquitetura -->
 
 <br>
 
