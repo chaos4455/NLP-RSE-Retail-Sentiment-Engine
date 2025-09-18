@@ -1,5 +1,8 @@
 # NLP-RSE-Retail-Sentiment-Engine
 
+<img width="2816" height="1536" alt="Google_AI_Studio_2025-09-18T01_14_10 169Z" src="https://github.com/user-attachments/assets/6e25d8dd-bfd4-4949-95a9-70ba770d136d" />
+
+
 <!-- Seção de Badges -->
 [![Status do Projeto](https://img.shields.io/badge/Status-Em_Desenvolvimento-orange?style=for-the-badge&logo=github)](https://github.com/chaos4455/NLP-RSE-Retail-Sentiment-Engine)
 [![Linguagem Principal](https://img.shields.io/badge/Linguagem-Python-blue?style=for-the-badge&logo=python)](https://www.python.org/)
