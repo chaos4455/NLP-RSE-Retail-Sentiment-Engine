@@ -107,6 +107,35 @@ O veredito final não é determinado por uma única fonte. Esta camada combina i
 
 <br>
 
+<img width="567" height="290" alt="chrome_f1pcgDV2k3" src="https://github.com/user-attachments/assets/718726f8-ce75-43b6-9e95-078a43a833e3" />
+
+<img width="724" height="707" alt="chrome_e6ylG17NUe" src="https://github.com/user-attachments/assets/adb2810c-99ba-4d82-a0fb-c85cd9074985" />
+
+<img width="735" height="915" alt="chrome_0tkTRdsMyl" src="https://github.com/user-attachments/assets/ec8889e0-eddb-4a2d-afd1-faef058021f9" />
+
+<img width="656" height="937" alt="37Puf8fVTd" src="https://github.com/user-attachments/assets/0e1ab263-7292-4a56-bb2c-f434a103fdb0" />
+
+<img width="561" height="768" alt="chrome_WX8kF8tsDm" src="https://github.com/user-attachments/assets/5182c926-3853-45b9-98b1-ec7eb45e9d14" />
+
+<img width="473" height="467" alt="chrome_hdqEhyrLxJ" src="https://github.com/user-attachments/assets/c5b98b13-b2cf-47a4-8ab1-3d4faeaea758" />
+
+<img width="557" height="450" alt="chrome_xFK2UtwP4P" src="https://github.com/user-attachments/assets/ed8602f7-19b1-4041-998c-1e1dde69622e" />
+
+<img width="687" height="420" alt="chrome_aKy6VXwb5r" src="https://github.com/user-attachments/assets/c60fbf51-db00-4e34-86aa-e0694abdd6ec" />
+
+<img width="462" height="204" alt="chrome_651fzb4m5V" src="https://github.com/user-attachments/assets/ced7d42d-4a21-4ca3-aa1f-5f0c49dc234e" />
+
+<img width="355" height="275" alt="chrome_1g6Gs7UM5q" src="https://github.com/user-attachments/assets/01ce0925-29db-4a74-9cc3-11a62c6653fa" />
+
+<img width="554" height="427" alt="chrome_XcnPOedJmu" src="https://github.com/user-attachments/assets/68eb5859-b615-4e16-9f4a-2eb01e67b1ce" />
+
+<img width="723" height="686" alt="chrome_CDmHpbFnmy" src="https://github.com/user-attachments/assets/c349e011-0337-408b-a6f0-b8238ec0d75e" />
+
+<img width="474" height="420" alt="chrome_j2Ygat5Tz1" src="https://github.com/user-attachments/assets/6769c63a-5928-44ef-9292-6878d493faf6" />
+
+<img width="295" height="150" alt="chrome_8sKy9A4CNL" src="https://github.com/user-attachments/assets/bd822c13-6c4e-44a5-9200-bd69bffd2fd8" />
+
+
 ---
 
 ## 🛠️ Detalhes Técnicos e Implementação
